@@ -1,5 +1,5 @@
 ```
-[Jason Guan]@[jasonguf]
+Jason Guan
 ────────────────────────────────────────────────────────────────
 
 Location: ............. Gainesville, FL, United States
@@ -66,8 +66,8 @@ Office:
 ────────────────────────────────────────────────────────────────
 - Contact ──────────────────────────────────────────────────────
 
-Email: ................. [gjasonuf@gmail.com]
-LinkedIn: .............. [https://www.linkedin.com/in/gjason/]
-GitHub: ................ [https://github.com/jasonguf]
+Email: ................. gjasonuf@gmail.com
+LinkedIn: .............. https://www.linkedin.com/in/gjason/
+GitHub: ................ https://github.com/jasonguf
 
 ```
