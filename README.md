@@ -32,17 +32,6 @@ Previous:
   Microsoft Tech Resilience @ Microsoft
   October 2021 - November 2021
 
-────────────────────────────────────────────────────────────────
-- Projects ─────────────────────────────────────────────────────
-
-Med Coach:
-  React.js, JavaScript, CSS, HTML, Python, Supabase, 
-  Cloudflare AI, spaCy, Auth0
-
-Study Buddies:
-  React.js, JavaScript, CSS, HTML, Google Firebase, 
-  Vercel, Astro, Bootstrap
-
 ```
 
 ### 🛠️ Technologies & Frameworks
