@@ -4,13 +4,13 @@ Jason Guan
 
 📍 Location: ............. Gainesville, FL, United States
 🎓 Education: ............ B.S. Computer Science, University of Florida
-                          GPA: 3.65 | Expected: December 2026
+                          GPA: 3.65 | Expected: May 2027
 
 ────────────────────────────────────────────────────────────────
 - Experience ───────────────────────────────────────────────────
 
 Current:
-  Software Engineer Intern at CVS Health
+  Intern at CVS Health
   May 2025 – August 2025
 
 Previous:
@@ -20,13 +20,13 @@ Previous:
   Teaching Assistant (Programming Fundamentals 1) @ UF
   August 2024 - December 2024
   
-  Software Engineer Intern @ Florida Community Innovation
+  Intern @ Florida Community Innovation
   June 2024 - August 2024
   
-  Software Engineer Intern @ KidzHack
+  Intern @ KidzHack
   May 2024 - August 2024
   
-  Computer Support Technician Intern @ Florida Dept of Agriculture
+  Intern @ Florida Dept of Agriculture
   May 2024 - July 2024
   
   Microsoft Tech Resilience @ Microsoft
