@@ -10,10 +10,13 @@ Jason Guan
 - Experience ───────────────────────────────────────────────────
 
 Current:
-  Intern at CVS Health
-  May 2025 – August 2025
+  Intern at Allegion
+  May 2026 – August 2026
 
 Previous:
+  Intern at CVS Health
+  May 2025 – August 2025
+  
   Teaching Assistant (Intro to Software Engineering) @ UF
   August 2024 – April 2025
   
