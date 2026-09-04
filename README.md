@@ -4,7 +4,7 @@ Jason Guan
 
 📍 Location: ............. Gainesville, FL, United States
 🎓 Education: ............ B.S. Computer Science, University of Florida
-                          GPA: 3.65 | Expected: May 2027
+                          GPA: 3.65 | Expected: 2027
 
 ────────────────────────────────────────────────────────────────
 - Experience ───────────────────────────────────────────────────
